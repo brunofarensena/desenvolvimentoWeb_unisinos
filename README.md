@@ -2,17 +2,17 @@
 
 Para utilizar o projeto é necessario possuir o node e o angular-cli instalado.
 
-Para instalar o node
+##Para instalar o node
 -https://nodejs.org/en/
 
-Para instalar o angular cli
+##Para instalar o angular cli
 - npm install -g @angular/cli
 
-Apos ter instalado rodar na pasta do projeto para instalar as dependencias do projeto
+##Apos ter instalado rodar na pasta do projeto para instalar as dependencias do projeto
 - npm install 
 
-Para visualizar no navegador 
--ng serve
+##Para visualizar no navegador 
+- ng serve
 
 Acessar no navegador o endereço
 - http://localhost:4200
