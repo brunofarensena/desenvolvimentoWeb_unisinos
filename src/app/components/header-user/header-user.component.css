@@ -1,0 +1,27 @@
+.header-user {
+  width: 900px;
+  height: 40px;
+  margin: 0 auto;
+  background: #28d;
+  font-size: 20px;
+  position: relative;
+  color: white;
+}
+
+.left {
+  padding: 7px;
+  width: 600px;
+  float: left;
+  margin: 0 auto;
+}
+
+.right {
+  padding: 7px;
+  margin-left: 620px;
+  margin: 0 auto;
+}
+
+.main {
+  width: 100%;
+  overflow: hidden;
+}

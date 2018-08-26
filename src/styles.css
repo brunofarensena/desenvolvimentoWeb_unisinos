@@ -1,0 +1,94 @@
+/* You can add global styles to this file, and also import other style files */
+
+.select-user input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+.select-user input[type="submit"] {
+  background: #28d;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.select-user input[type="submit"]:hover {
+  background: #17c;
+}
+
+.select-user input[type="submit"]:focus {
+  border-color: #05a;
+}
+
+.info-box input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+.info-box input[type="submit"] {
+  background: #28d;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.info-box input[type="submit"]:hover {
+  background: #17c;
+}
+
+.info-box input[type="submit"]:focus {
+  border-color: #05a;
+}
+
+input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+
+input[type="submit"] {
+  background: #28d;
+  border-color: black;
+  color: #fff;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background: #17c;
+}
+
+input[type="submit"]:focus {
+  border-color: #05a;
+}
+
+select {
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+  border-color: black;
+  cursor: pointer;
+}
