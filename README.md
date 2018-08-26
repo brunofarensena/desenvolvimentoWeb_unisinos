@@ -1,4 +1,23 @@
-# DesenvolvimentoWeb
+# DesenvolvimentoWeb_unisinos
+
+Para utilizar o projeto é necessario possuir o node e o angular-cli instalado.
+
+Para instalar o node
+-https://nodejs.org/en/
+
+Para instalar o angular cli
+- npm install -g @angular/cli
+
+Apos ter instalado rodar na pasta do projeto para instalar as dependencias do projeto
+- npm install 
+
+Para visualizar no navegador 
+-ng serve
+
+Acessar no navegador o endereço
+- http://localhost:4200
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.2.
 
